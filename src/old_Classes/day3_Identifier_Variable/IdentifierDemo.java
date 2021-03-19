@@ -1,4 +1,4 @@
-package old_Classes.day3;
+package old_Classes.day3_Identifier_Variable;
 
 public class IdentifierDemo {
 

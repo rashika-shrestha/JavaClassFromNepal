@@ -1,4 +1,4 @@
-package old_Classes.day4;
+package old_Classes.day4_DataType;
 
 public class DatatypeDemo1 {
 

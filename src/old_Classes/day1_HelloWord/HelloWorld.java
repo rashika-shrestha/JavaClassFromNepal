@@ -1,4 +1,4 @@
-package old_Classes.day1;
+package old_Classes.day1_HelloWord;
 
 public class HelloWorld {
 

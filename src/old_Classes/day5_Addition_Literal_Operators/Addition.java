@@ -1,4 +1,4 @@
-package old_Classes.day5;
+package old_Classes.day5_Addition_Literal_Operators;
 
 import java.util.Scanner;
 

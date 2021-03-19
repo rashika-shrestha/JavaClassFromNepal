@@ -1,4 +1,4 @@
-package old_Classes.day8;
+package old_Classes.day8_Explicit_Implicit_TypeCasting;
 
 import java.util.Scanner;
 
