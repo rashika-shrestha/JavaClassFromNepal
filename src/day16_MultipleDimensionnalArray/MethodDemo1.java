@@ -1,4 +1,4 @@
-package day16;
+package day16_MultipleDimensionnalArray;
 
 import java.util.Scanner;
 

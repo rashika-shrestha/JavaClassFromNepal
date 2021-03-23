@@ -1,4 +1,4 @@
-package day15;
+package day15_SingleDimensionalArray;
 
 import java.util.Scanner;
 

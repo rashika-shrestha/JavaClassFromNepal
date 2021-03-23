@@ -1,4 +1,4 @@
-package day15;
+package day15_SingleDimensionalArray;
 
 public class ArrayDemo1 {
 
