@@ -1,6 +1,6 @@
 package day15_SingleDimensionalArray;
 
-public class Employee {
+public class Encapsulation_Employee {
 
     private String empName;
     private int empId;

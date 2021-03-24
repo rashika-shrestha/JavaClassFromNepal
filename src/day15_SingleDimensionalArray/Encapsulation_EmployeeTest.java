@@ -2,7 +2,7 @@ package day15_SingleDimensionalArray;
 
 import java.util.Scanner;
 
-public class EmployeeTest {
+public class Encapsulation_EmployeeTest {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -12,7 +12,7 @@ public class EmployeeTest {
         int empId = input.nextInt();
         System.out.println("Enter employee salary: ");
         double salary = input.nextDouble();
-        Employee e1 = new Employee();
+        Encapsulation_Employee e1 = new Encapsulation_Employee();
         e1.setEmpName(empName);
         e1.setEmpId(empId);
         e1.setSalary(salary);
