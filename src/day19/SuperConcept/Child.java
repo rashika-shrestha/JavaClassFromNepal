@@ -1,4 +1,4 @@
-package day19;
+package day19.SuperConcept;
 
 //super is a keyword and is an implicit reference variable
 //of current type and current child object and is
