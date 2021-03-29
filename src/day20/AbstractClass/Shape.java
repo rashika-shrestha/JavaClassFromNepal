@@ -2,6 +2,8 @@ package day20.AbstractClass;
 
 public /*final*/ abstract class Shape {
 
+    int a=5;
+
     //we can not use final, static and private keyword on abstract method
     abstract void draw();
 
