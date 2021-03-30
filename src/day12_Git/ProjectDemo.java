@@ -1,10 +1,13 @@
 package day12_Git;
 
+import day22.Demo;
+
 import java.util.Arrays;
 
 public class ProjectDemo {
 
     public static void main(String[] args) {
+        Demo.greet();
         String cvxList = "207,208,209,210,234";
         String reg = "207|208|209|210";
         String[] cvx = cvxList.split(",");
