@@ -1,6 +1,6 @@
-package other;
+package day22_AccesFromOtherPackage;
 
-import day22.AccessModifierDemo;
+import day22_AccessModifierSamePackage.AccessModifierDemo;
 
 public class AccessModifierDemoOtherChild extends AccessModifierDemo {
 

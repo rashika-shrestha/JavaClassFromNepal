@@ -1,4 +1,4 @@
-package day22;
+package day22_AccessModifierSamePackage;
 
 public class AccessModifierDemoChild extends AccessModifierDemo{
 

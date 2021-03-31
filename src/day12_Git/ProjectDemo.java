@@ -1,6 +1,6 @@
 package day12_Git;
 
-import day22.Demo;
+import day22_AccessModifierSamePackage.Demo;
 
 import java.util.Arrays;
 

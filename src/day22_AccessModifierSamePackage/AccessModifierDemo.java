@@ -1,4 +1,4 @@
-package day22;
+package day22_AccessModifierSamePackage;
 
 public class AccessModifierDemo {
 
@@ -22,6 +22,8 @@ public class AccessModifierDemo {
     protected void protectedMethod() {
         System.out.println("this is protected method...");
     }
+
+
 
     public AccessModifierDemo() {
         System.out.println("this is public constructor...");
