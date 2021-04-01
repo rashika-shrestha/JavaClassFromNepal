@@ -1,4 +1,4 @@
-package day21;
+package day21_Polymorhism_Overloading_Overlapping;
 
 //compile time polymorphism(static binding)
 //which can be achieved by overloading of methods

@@ -1,4 +1,4 @@
-package day21;
+package day21_Polymorhism_Overloading_Overlapping;
 
 public class InterfaceImpl extends Demo  implements InterfaceDemo1, InterfaceDemo2{
     @Override
