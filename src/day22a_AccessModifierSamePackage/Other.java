@@ -1,4 +1,4 @@
-package day22_AccessModifierSamePackage;
+package day22a_AccessModifierSamePackage;
 
 public class Other {
 
