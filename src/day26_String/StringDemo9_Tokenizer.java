@@ -1,8 +1,8 @@
-package day26;
+package day26_String;
 
 import java.util.StringTokenizer;
 
-public class StringDemo9 {
+public class StringDemo9_Tokenizer {
 
     public static void main(String[] args) {
         String info = "Hello,, I am Santosh Lal Karna,, I am from Nepal,, I am Java Developer,, I teach Java part time";

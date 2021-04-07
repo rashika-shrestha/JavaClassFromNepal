@@ -1,6 +1,6 @@
-package day26;
+package day26_String;
 
-public class StringDemo4 {
+public class StringDemo4_Mutable {
 
     public static void main(String[] args) {
         String s1 = "Good";

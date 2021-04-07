@@ -1,6 +1,6 @@
-package day26;
+package day26_String;
 
-public class StringDemo10 {
+public class StringDemo10_matchesValidation {
 
     public static void main(String[] args) {
         System.out.println(isYes("Yes"));

@@ -1,6 +1,6 @@
-package day26;
+package day26_String;
 
-public class StringDemo3 {
+public class StringDemo3_Immutable {
 
     public static void main(String[] args) {
         String s1 = "Good Morning";

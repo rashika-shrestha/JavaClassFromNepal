@@ -1,6 +1,6 @@
-package day26;
+package day26_String;
 
-public class StringDemo5 {
+public class StringDemo5_StringBuilder {
 
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Good");

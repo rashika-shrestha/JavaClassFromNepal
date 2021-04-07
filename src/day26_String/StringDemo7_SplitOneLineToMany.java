@@ -1,6 +1,6 @@
-package day26;
+package day26_String;
 
-public class StringDemo7 {
+public class StringDemo7_SplitOneLineToMany {
 
     public static void main(String[] args) {
         String info = "Hello, I am Santosh Lal Karna, I am from Nepal, I am Java Developer, I teach Java part time";

@@ -1,6 +1,6 @@
-package day26;
+package day26_String;
 
-public class StringDemo6 {
+public class StringDemo6_StringBuffer {
 
     public static void main(String[] args) {
         StringBuffer sbf = new StringBuffer("Good");
