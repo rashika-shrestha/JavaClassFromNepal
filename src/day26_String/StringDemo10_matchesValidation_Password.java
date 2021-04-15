@@ -1,6 +1,6 @@
 package day26_String;
 
-public class StringDemo10_matchesValidation {
+public class StringDemo10_matchesValidation_Password {
 
     public static void main(String[] args) {
         System.out.println(isYes("Yes"));
@@ -12,14 +12,17 @@ public class StringDemo10_matchesValidation {
     }
 
     public static boolean isYes(String s) {
+
         return s.matches("[Y|y]es");
     }
 
     public static boolean isYesOrNo(String s) {
+
         return s.matches("[Y|y]es|[N|n]o");
     }
 
     public static boolean isNumber(String s) {
+
         return s.matches("[0-9]");
     }
 
