@@ -1,6 +1,6 @@
 package day31_ExceptionHandeling_Part2;
 
-public class ExceptionDemo9_UnchecedException {
+public class ExceptionDemo9_UncheckedException {
 
     public static void main(String[] args) {
 
