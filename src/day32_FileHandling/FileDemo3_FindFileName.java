@@ -5,7 +5,7 @@ import java.time.Instant;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 
-public class FileDemo3_FineFileName {
+public class FileDemo3_FindFileName {
 
     public static void main(String[] args) {
         String filePath = "C:/Users/rashi/Desktop/demo.txt";
