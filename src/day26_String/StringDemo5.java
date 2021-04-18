@@ -1,4 +1,4 @@
-package day26;
+package day26_String;
 
 public class StringDemo5 {
 
@@ -13,5 +13,6 @@ public class StringDemo5 {
         System.out.println(sb);
         sb.reverse();
         System.out.println(sb);
+
     }
 }

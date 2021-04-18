@@ -10,7 +10,7 @@ public class SwitchCaseDemo3 {
         switch (choice) {
 
             case "add":
-                JOptionPane.showMessageDialog(null, "this is addition");
+                //www.google.com;
                 break;
             case "sub":
                 JOptionPane.showMessageDialog(null, "this is subtraction");

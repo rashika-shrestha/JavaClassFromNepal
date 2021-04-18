@@ -8,6 +8,7 @@ public class BankAccountTest {
 
         nirmal.depositFunds(500);
         rashi.withdrawFunds(100);
+        nirmal.withdrawFunds(500, 5);
 
     }
 }
