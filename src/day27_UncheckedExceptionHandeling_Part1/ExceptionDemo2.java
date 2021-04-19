@@ -1,8 +1,8 @@
-package day27_ExceptionHandeling_Part1;
+package day27_UncheckedExceptionHandeling_Part1;
 
 import java.util.Scanner;
 
-public class ExceptionDemo3 {
+public class ExceptionDemo2 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -18,11 +18,8 @@ public class ExceptionDemo3 {
             System.out.println("try end");
         } catch (ArithmeticException ae) {
             System.out.println("inside catch");
-        } finally {
-            //finally always runs
-            System.out.println("inside finally block");
-            input.close();
         }
+
         System.out.println("exit");
     }
 
