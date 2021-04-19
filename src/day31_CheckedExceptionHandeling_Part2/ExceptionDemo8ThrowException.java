@@ -1,4 +1,4 @@
-package day31_ExceptionHandeling_Part2;
+package day31_CheckedExceptionHandeling_Part2;
 
 public class ExceptionDemo8ThrowException {
 

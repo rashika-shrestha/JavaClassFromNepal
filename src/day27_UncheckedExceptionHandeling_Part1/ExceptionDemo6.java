@@ -1,4 +1,4 @@
-package day27_ExceptionHandeling_Part1;
+package day27_UncheckedExceptionHandeling_Part1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

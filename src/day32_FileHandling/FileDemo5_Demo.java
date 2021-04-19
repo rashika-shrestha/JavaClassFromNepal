@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class FileDemo5 {
+public class FileDemo5_Demo {
 
     public static void main(String[] args) {
         String readFilePath = "C:/Users/rashi/Desktop/MethodDemo.java";
