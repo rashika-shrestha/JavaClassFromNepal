@@ -1,4 +1,4 @@
-package day27_ExceptionHandeling;
+package day27_ExceptionHandeling_Part1;
 
 public class ExceptionDemo4 {
 
