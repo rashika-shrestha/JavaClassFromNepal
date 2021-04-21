@@ -6,7 +6,7 @@ public class FileDemo6 {
 
     public static void main(String[] args) {
         String readFilePath = "C:/Users/rashi/Desktop/MethodDemo.java";
-        String writeFilePath = "C:/Users/rashi/Desktop/demo/demo3.txt";
+        String writeFilePath = "C:/Users/rashi/Desktop/demo/pdfdemo.pdf";
 
         try (
                 FileReader in = new FileReader(readFilePath);
