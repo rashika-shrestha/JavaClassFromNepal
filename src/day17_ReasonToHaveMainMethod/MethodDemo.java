@@ -4,7 +4,7 @@ public class MethodDemo {
 
     public static void main(String[] abc) {
         String[] names = {"ram", "shyam", "hari"};
-        print(abc);
+        print(names);
     }
 
 
