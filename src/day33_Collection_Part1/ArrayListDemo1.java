@@ -1,4 +1,4 @@
-package day33_Collection;
+package day33_Collection_Part1;
 
 import java.util.ArrayList;
 import java.util.List;
