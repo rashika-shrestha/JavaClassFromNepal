@@ -1,4 +1,4 @@
-package day35;
+package day35_Array_Collection;
 
 import java.util.Comparator;
 

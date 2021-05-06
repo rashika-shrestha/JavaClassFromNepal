@@ -1,11 +1,10 @@
-package day35;
+package day35_Array_Collection;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
-public class CollectionsDemo2 {
+public class CollectionsDemo3 {
 
     public static void main(String[] args) {
         List<Integer> l = new ArrayList<>();
@@ -14,12 +13,10 @@ public class CollectionsDemo2 {
         l.add(13);
         l.add(21);
         System.out.println(l);
-        Collections.sort(l);
+        l.add(34);
         System.out.println(l);
-        Collections.reverse(l);
-        System.out.println(l);
-        Collections.shuffle(l);
-        System.out.println(l);
-
+        List<Integer> ul = Collections.unmodifiableList(l);
+        System.out.println(ul);
+//        ul.add(45);
     }
 }
