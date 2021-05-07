@@ -12,6 +12,7 @@ public class ExceptionDemo8ThrowException {
             System.out.println("you can vote...");
         }else{
             throw new InvalidAgeException("you can not vote...");
+            
         }
     }
 
