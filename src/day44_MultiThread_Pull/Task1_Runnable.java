@@ -1,13 +1,13 @@
-package day44;
+package day44_MultiThread_Pull;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Task implements Runnable {
+public class Task1_Runnable implements Runnable {
 
     private String name;
 
-    public Task(String name) {
+    public Task1_Runnable(String name) {
         this.name = name;
     }
 
