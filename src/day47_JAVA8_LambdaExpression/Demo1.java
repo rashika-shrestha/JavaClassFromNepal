@@ -1,4 +1,4 @@
-package day47_LambdaExpression;
+package day47_JAVA8_LambdaExpression;
 
 public class Demo1 {
 
